@@ -2,7 +2,7 @@
 
 ## ⚠Warning
 
-#### [1] Please add files in order to avoid the program reporting missing files.
+#### :one:Please add files in order to avoid the program reporting missing files.
 
 How to do: ``Assignments`` → ``Settings`` → ``Files``
 
@@ -19,7 +19,7 @@ How to do: ``Assignments`` → ``Settings`` → ``Files``
 | pll.qip               | IP Variation File (.qip) | <None>  | <None>                      | <None>      |
 | pll.sip               | Quartus Prime SIP File   | <None>  | <None>                      | <None>      |
 
-#### [2] Turn off Auto DSP Block Replacement to avoid the case where the program reports insufficient resources
+#### :two: Turn off Auto DSP Block Replacement to avoid the case where the program reports insufficient resources
 
 How to do: ``Assignments`` → ``Settings`` → ``Compiler Settings`` → ``Advanced Settings (Synthesis)`` → Set **Logic Element** option for **DSP Block Balancing** settings
 

@@ -19,6 +19,7 @@
 
 wrapper/c5_pin_model_dump.txt
 wrapper/pll*
+!wrapper/pll/
 !wrapper/pll.v
 !wrapper/pll.sip
 !wrapper/pll.qip
