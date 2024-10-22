@@ -1,0 +1,24 @@
+# gitignore
+# ./
+
+# general
+**/*.bak
+
+# quartus
+**/db/*
+
+**/incremental_db/*
+
+**/output_files/*
+!**/output_files/*.sof
+!**/output_files/*.pof
+
+**/simulation/*
+
+**/pll_sim/*
+
+wrapper/c5_pin_model_dump.txt
+wrapper/pll*
+!wrapper/pll.v
+!wrapper/pll.sip
+!wrapper/pll.qip
